@@ -1,6 +1,5 @@
 # PitchPerfect
 
-<h2>Pitch Perfect<h2>
 
 <p>iPhone app that records your voice and plays it back with different audio effects!<p>
 <br>
